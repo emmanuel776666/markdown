@@ -11,7 +11,7 @@ I am a passionate **Web Developer** and **Full Stack Developer** with experience
 - CSS
 - JavaScript
 - React
-- Databases
+- Database
 - GitHub
 
 ### Career Goal
