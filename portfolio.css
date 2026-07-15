@@ -1,0 +1,167 @@
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+/* Body Styling */
+
+body{
+
+    font-family:Arial, sans-serif;
+
+    background:#f4f4f4;
+
+    color:#333;
+
+}
+
+
+
+nav{
+
+    background:#003366;
+
+    color:white;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:15px 40px;
+
+}
+
+
+
+nav ul{
+
+    list-style:none;
+
+    display:flex;
+
+}
+
+
+nav ul li{
+
+    margin-left:20px;
+
+}
+
+
+nav ul li a{
+
+    color:white;
+
+    text-decoration:none;
+
+}
+
+
+
+.hero{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    padding:50px;
+
+    gap:40px;
+
+}
+
+
+
+.image img{
+
+    width:220px;
+
+    height:220px;
+
+    border-radius:50%;
+
+    border:5px solid #003366;
+
+}
+
+
+
+.intro{
+
+    max-width:500px;
+
+}
+
+
+.intro h1{
+
+    color:#003366;
+
+    margin-bottom:10px;
+
+}
+
+
+.intro h3{
+
+    color:#555;
+
+    margin-bottom:15px;
+
+}
+
+
+
+section{
+
+    background:white;
+
+    margin:20px;
+
+    padding:30px;
+
+    border-radius:10px;
+
+}
+
+
+section h2{
+
+    color:#003366;
+
+    margin-bottom:15px;
+
+}
+
+
+/* Skills */
+
+#skills ul{
+
+    margin-left:20px;
+
+}
+
+
+/* Footer */
+
+footer{
+
+    background:#003366;
+
+    color:white;
+
+    text-align:center;
+
+    padding:20px;
+
+}
